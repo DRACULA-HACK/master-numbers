@@ -11,3 +11,5 @@ Receive SMS Online / Temporary Phone Number You can receive SMS online with the 
   + `python setup.py`
 
 552 fake NUMBERS from diffrent country
+# whatsapp 
+https://wa.me/919187514600
